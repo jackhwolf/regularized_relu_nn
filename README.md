@@ -1,3 +1,3 @@
-implementation of regularized relu neural network for learning sparse general function approximator
+implementation of regularized relu neural network
 
 Jack Wolf
